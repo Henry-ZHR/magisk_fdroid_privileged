@@ -1,6 +1,6 @@
 id=fdroid_privileged
 name=F-Droid Privileged Extension
-version=df8ede3 2021-03-19
-versionCode=2120
+version=7d14a91 (2130)
+versionCode=2130
 author=F-Droid
 description=Services to allow F-Droid to securely install and update apps
